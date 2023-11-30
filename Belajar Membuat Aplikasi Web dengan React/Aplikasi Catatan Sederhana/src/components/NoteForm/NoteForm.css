@@ -1,0 +1,9 @@
+.form-container {
+    margin-bottom: 20px;
+}
+
+.form-container textarea {
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 100%;
+}
